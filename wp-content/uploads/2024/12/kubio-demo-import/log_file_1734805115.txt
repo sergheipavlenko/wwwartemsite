@@ -1,0 +1,495 @@
+
+------
+[INFO] Prepare remote import
+
+
+---Downloaded files---
+The files for import: https://s3.us-west-2.amazonaws.com/static-assets.kubiobuilder.com/demo-sites/production/multipurpose-free/content.kds have been successfully downloaded!
+
+------
+[INFO] Executing before import step: init
+
+
+------
+[INFO] Executing before import step: prepare_templates
+
+
+------
+[INFO] Executing before import step: prepare_template_parts
+
+
+------
+[INFO] Executing before import step: prepare_menus
+
+
+------
+[INFO] Executing before import step: prepare_pages
+
+
+------
+[INFO] Imported "Uncategorized" (category)
+
+
+------
+[INFO] Imported "Primary menu" (nav_menu)
+
+
+------
+[NOTICE] Skipping attachment "hero.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "sub-hero.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "sub-hero1-e1657286769921.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "pic1.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "pic2.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "pic3.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "pic4.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "pic5.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "pic6.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "pic7.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "human1.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "human2.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "human3.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "human4.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "pic8-e1657284328173.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "logoipsum-logo-2.png", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "logoipsum-logo-5.png", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "logoipsum-logo-7.png", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "logoipsum-logo-8.png", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "kubio-featured-image.jpg", fetching attachments disabled
+
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[NOTICE] Skipping attachment "kubio-featured-image.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "logoipsum-logo-9.png", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "logoipsum-logo-11.png", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "logoipsum-logo-25.png", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "logoipsum-logo-29.png", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "pic9.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "project1.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "project2.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "project3.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "project-4.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "project5.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "pic7-1.jpg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "demo-video.mp4", fetching attachments disabled
+
+
+------
+[INFO] Imported "Home" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "Hello world!" (Post)
+
+
+------
+[INFO] Imported "Custom Styles" (Global styles)
+
+
+------
+[INFO] Imported "About us" (Page)
+
+
+------
+[INFO] Imported "Services" (Page)
+
+
+------
+[INFO] Imported "Sample Page" (Page)
+
+
+------
+[INFO] Imported "Privacy Policy" (Page)
+
+
+------
+[INFO] Imported "Front Page" (Page)
+
+
+------
+[INFO] Imported "Blog" (Page)
+
+
+------
+[INFO] Imported "Contact" (Page)
+
+
+------
+[INFO] Imported "Lorem ipsum" (Post)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Post)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Post)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "Page With Left Sidebar" (Template)
+
+
+------
+[INFO] Imported "Page With Right Sidebar" (Template)
+
+
+------
+[INFO] Imported "Single Product" (Template)
+
+
+------
+[INFO] Imported "Single Post" (Template)
+
+
+------
+[INFO] Imported "Untitled" (Contact Form)
+
+
+------
+[INFO] Imported "Archive Product" (Template)
+
+
+------
+[INFO] Imported "Front Page" (Template)
+
+
+------
+[INFO] Imported "Full Width" (Template)
+
+
+------
+[INFO] Imported "Index" (Template)
+
+
+------
+[INFO] Imported "Page" (Template)
+
+
+------
+[INFO] Imported "Search" (Template)
+
+
+------
+[INFO] Imported "404" (Template)
+
+
+------
+[INFO] Imported "Page Sidebar" (Template part)
+
+
+------
+[INFO] Imported "Footer" (Template part)
+
+
+------
+[INFO] Imported "Front Header" (Template part)
+
+
+------
+[INFO] Imported "Header" (Template part)
+
+
+------
+[INFO] Imported "Sidebar" (Template part)
+
+
+------
+[INFO] Posts post processing
+
+
+------
+[INFO] Create term 'elevate-wp' in 'wp_theme'
+
+
+------
+[WARNING] Could not find the author for "Home" (post #77)
+
+
+------
+[WARNING] Could not find the author for "" (post #78)
+
+
+------
+[WARNING] Could not find the author for "" (post #81)
+
+
+------
+[WARNING] Could not find the author for "" (post #166)
+
+
+------
+[WARNING] Could not find the author for "" (post #167)
+
+
+------
+[WARNING] Could not find the author for "" (post #480)
+
+
+------
+[WARNING] Could not find the author for "Hello world!" (post #481)
+
+
+------
+[WARNING] Could not find the author for "Custom Styles" (post #25)
+
+
+------
+[WARNING] Could not find the author for "About us" (post #26)
+
+
+------
+[WARNING] Could not find the author for "Services" (post #79)
+
+
+------
+[WARNING] Could not find the author for "Sample Page" (post #161)
+
+
+------
+[WARNING] Could not find the author for "Privacy Policy" (post #162)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #163)
+
+
+------
+[WARNING] Could not find the author for "Blog" (post #164)
+
+
+------
+[WARNING] Could not find the author for "Contact" (post #165)
+
+
+------
+[WARNING] Could not find the author for "Lorem ipsum" (post #457)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #458)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #459)
+
+
+------
+[WARNING] Could not find the author for "" (post #505)
+
+
+------
+[WARNING] Could not find the author for "" (post #506)
+
+
+------
+[WARNING] Could not find the author for "" (post #507)
+
+
+------
+[WARNING] Could not find the author for "" (post #508)
+
+
+------
+[WARNING] Could not find the author for "Page With Left Sidebar" (post #514)
+
+
+------
+[WARNING] Could not find the author for "Page With Right Sidebar" (post #515)
+
+
+------
+[WARNING] Could not find the author for "Single Product" (post #516)
+
+
+------
+[WARNING] Could not find the author for "Single Post" (post #517)
+
+
+------
+[WARNING] Could not find the author for "Untitled" (post #296)
+
+
+------
+[WARNING] Could not find the author for "Archive Product" (post #518)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #519)
+
+
+------
+[WARNING] Could not find the author for "Full Width" (post #520)
+
+
+------
+[WARNING] Could not find the author for "Index" (post #521)
+
+
+------
+[WARNING] Could not find the author for "Page" (post #522)
+
+
+------
+[WARNING] Could not find the author for "Search" (post #523)
+
+
+------
+[WARNING] Could not find the author for "404" (post #524)
+
+
+------
+[WARNING] Could not find the author for "Page Sidebar" (post #525)
+
+
+------
+[WARNING] Could not find the author for "Footer" (post #526)
+
+
+------
+[WARNING] Could not find the author for "Front Header" (post #529)
+
+
+------
+[WARNING] Could not find the author for "Header" (post #530)
+
+
+------
+[WARNING] Could not find the author for "Sidebar" (post #531)
+
+
+------
+[INFO] Starting remapping of featured images
+
